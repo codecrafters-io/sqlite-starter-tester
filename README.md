@@ -1,3 +1,3 @@
-# git-starter-tester
+# sqlite-starter-tester
 
-A tester for the first stage of the Git challenge
+A tester for the first stage of the SQLite challenge
