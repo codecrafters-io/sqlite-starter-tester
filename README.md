@@ -1,3 +1,1 @@
-# sqlite-starter-tester
-
-A tester for the first stage of the SQLite challenge
+Moved to [https://github.com/codecrafters-io/build-your-own-sqlite](https://github.com/codecrafters-io/build-your-own-sqlite)
